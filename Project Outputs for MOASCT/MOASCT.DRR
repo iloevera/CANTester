@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MOASCT.PcbDoc   8/7/2024  10:33:51 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MOASCT-RoundHoles.TXT
+ASCII SlotHoles File : MOASCT-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.249mm)                                           Round             10        PTH        1.60inch (40.70mm)
+T2      12mil (0.3mm)                                             Round             419       PTH        57.90inch (1470.66mm)
+T3      24mil (0.599mm)                                           Slot              4         PTH        5.31inch (134.96mm)
+T4      36mil (0.914mm)                                           Round             16        PTH        3.40inch (86.31mm)
+T5      39mil (1.001mm)                                           Round             12        PTH        5.36inch (136.04mm)
+T6      197mil (5.001mm)                                          Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              462
+
+Total Processing Time (hh:mm:ss) : 00:00:00
